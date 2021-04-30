@@ -1,0 +1,11 @@
+__pycache__
+.vscode
+.idea
+
+# exclude content of directories
+configurations/*
+tasks/*
+
+# exception to the rule
+!configurations/.gitkeep
+!tasks/.gitkeep
