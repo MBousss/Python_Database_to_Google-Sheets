@@ -14,8 +14,8 @@ def main():
         to fetch data and put it in Google Sheets
         
         Task:
-            A task is a operation of fetching data from the MySql DataBase
-            and upload it to a Google Sheet
+            A task is a operation of fetching data from a MySql DataBase
+            and uploads it to a Google Sheet
             
         How to make a new Task:
             1: Make a new directory in the 'tasks' directory
