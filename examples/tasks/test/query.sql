@@ -1,1 +1,1 @@
-SELECT * FROM 'table-name'
+SELECT * FROM `table-name`;
